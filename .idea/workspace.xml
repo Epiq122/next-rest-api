@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41769e6-9991-4f2e-a73b-34f45903f160" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/trips/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/trips/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/expenses/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/expenses/[id].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/trips/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/trips/[id].js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,14 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="10.implement-PUT" />
+                    <option name="lastUsedInstant" value="1682570748" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1682570153" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="9.add-expense-GET-tripid" />
                     <option name="lastUsedInstant" value="1682569817" />
                   </RecentBranch>
@@ -48,14 +58,6 @@
                   <RecentBranch>
                     <option name="branchName" value="7.implement-POST" />
                     <option name="lastUsedInstant" value="1682566988" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="6.implement-GET-trips-endpoint" />
-                    <option name="lastUsedInstant" value="1682565801" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="5.prisma-to-retrieve-data" />
-                    <option name="lastUsedInstant" value="1682565093" />
                   </RecentBranch>
                 </list>
               </option>
@@ -90,7 +92,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "9.add-expense-GET-tripid",
+    "git-widget-placeholder": "10.implement-PUT",
     "javascript.nodejs.core.library.configured.version": "19.4.0",
     "javascript.nodejs.core.library.typings.version": "18.16.1",
     "node.js.detected.package.eslint": "true",
@@ -115,10 +117,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="HTTP Request.scratch | #3">
-    <configuration name="All in rest-api_5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_5.http">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="HTTP Request.scratch | #4">
     <configuration name="rest-api_5 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_5.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -131,13 +130,16 @@
     <configuration name="scratch | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" index="3" requestIdentifier="#3" runType="Run single request">
       <method v="2" />
     </configuration>
+    <configuration name="scratch | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.scratch | #4" />
         <item itemvalue="HTTP Request.scratch | #3" />
         <item itemvalue="HTTP Request.scratch | #2" />
         <item itemvalue="HTTP Request.scratch | #1" />
         <item itemvalue="HTTP Request.rest-api_5 | #1" />
-        <item itemvalue="HTTP Request.All in rest-api_5" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682484591757</updated>
-      <workItem from="1682484593067" duration="11245000" />
+      <workItem from="1682484593067" duration="12384000" />
     </task>
     <servers />
   </component>
