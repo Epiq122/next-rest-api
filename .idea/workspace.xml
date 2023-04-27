@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41769e6-9991-4f2e-a73b-34f45903f160" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/api/expenses/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/expenses/[id].js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/api/trips/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/trips/[id].js" afterDir="false" />
@@ -40,6 +39,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="11.implement-DELETE" />
+                    <option name="lastUsedInstant" value="1682571191" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="10.implement-PUT" />
                     <option name="lastUsedInstant" value="1682570748" />
                   </RecentBranch>
@@ -54,10 +57,6 @@
                   <RecentBranch>
                     <option name="branchName" value="8.post/expense-GET/expenses" />
                     <option name="lastUsedInstant" value="1682568487" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="7.implement-POST" />
-                    <option name="lastUsedInstant" value="1682566988" />
                   </RecentBranch>
                 </list>
               </option>
@@ -92,7 +91,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "10.implement-PUT",
+    "git-widget-placeholder": "11.implement-DELETE",
     "javascript.nodejs.core.library.configured.version": "19.4.0",
     "javascript.nodejs.core.library.typings.version": "18.16.1",
     "node.js.detected.package.eslint": "true",
@@ -117,10 +116,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="HTTP Request.scratch | #4">
-    <configuration name="rest-api_5 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_5.http" requestIdentifier="#1" runType="Run single request">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="HTTP Request.scratch | #3">
     <configuration name="scratch | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -133,13 +129,16 @@
     <configuration name="scratch | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" index="4" requestIdentifier="#4" runType="Run single request">
       <method v="2" />
     </configuration>
+    <configuration name="scratch | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" index="5" requestIdentifier="#5" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.scratch | #4" />
         <item itemvalue="HTTP Request.scratch | #3" />
+        <item itemvalue="HTTP Request.scratch | #5" />
+        <item itemvalue="HTTP Request.scratch | #4" />
         <item itemvalue="HTTP Request.scratch | #2" />
         <item itemvalue="HTTP Request.scratch | #1" />
-        <item itemvalue="HTTP Request.rest-api_5 | #1" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682484591757</updated>
-      <workItem from="1682484593067" duration="12384000" />
+      <workItem from="1682484593067" duration="12579000" />
     </task>
     <servers />
   </component>
