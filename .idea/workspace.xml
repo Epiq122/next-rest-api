@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41769e6-9991-4f2e-a73b-34f45903f160" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/trips/[id].js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/trips/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/trips/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myAllFileTypesSelected" value="true" />
@@ -33,6 +38,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="6.implement-GET-trips-endpoint" />
+                    <option name="lastUsedInstant" value="1682565801" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="5.prisma-to-retrieve-data" />
                     <option name="lastUsedInstant" value="1682565093" />
                   </RecentBranch>
@@ -47,10 +56,6 @@
                   <RecentBranch>
                     <option name="branchName" value="3.host-api-calls" />
                     <option name="lastUsedInstant" value="1682563597" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="2.documention-for-endpoints" />
-                    <option name="lastUsedInstant" value="1682486190" />
                   </RecentBranch>
                 </list>
               </option>
@@ -78,7 +83,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "5.prisma-to-retrieve-data",
+    "git-widget-placeholder": "6.implement-GET-trips-endpoint",
     "javascript.nodejs.core.library.configured.version": "19.4.0",
     "javascript.nodejs.core.library.typings.version": "18.16.1",
     "node.js.detected.package.eslint": "true",
@@ -91,7 +96,7 @@
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/rob/.nvm/versions/node/v19.4.0/lib/node_modules/prettier",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -108,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682484591757</updated>
-      <workItem from="1682484593067" duration="6960000" />
+      <workItem from="1682484593067" duration="7430000" />
     </task>
     <servers />
   </component>
