@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41769e6-9991-4f2e-a73b-34f45903f160" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/api/trips/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/hello.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="3.host-api-calls" />
+                    <option name="lastUsedInstant" value="1682563597" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="2.documention-for-endpoints" />
                     <option name="lastUsedInstant" value="1682486190" />
@@ -68,7 +73,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "2.documention-for-endpoints",
+    "git-widget-placeholder": "3.host-api-calls",
     "javascript.nodejs.core.library.configured.version": "19.4.0",
     "javascript.nodejs.core.library.typings.version": "18.16.1",
     "node.js.detected.package.eslint": "true",
@@ -93,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682484591757</updated>
-      <workItem from="1682484593067" duration="4833000" />
+      <workItem from="1682484593067" duration="5091000" />
     </task>
     <servers />
   </component>
