@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "user": 1,
+    "name": "First Trip",
+    "start_date": "2023-04-26T00:00:00.000Z",
+    "end_date": null,
+    "expenses": [
+      {
+        "id": 1,
+        "trip": 1,
+        "name": "Beers",
+        "date": "2023-04-27T04:27:42.506Z",
+        "amount": 68,
+        "currency": "USD"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user": 2,
+    "name": "Second Trip",
+    "start_date": "2023-04-25T00:00:00.000Z",
+    "end_date": null,
+    "expenses": []
+  },
+  {
+    "id": 3,
+    "user": 1,
+    "name": "Test trip",
+    "start_date": "2023-04-27T04:05:23.800Z",
+    "end_date": null,
+    "expenses": []
+  }
+]
