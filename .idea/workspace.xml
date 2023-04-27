@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41769e6-9991-4f2e-a73b-34f45903f160" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/trips/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/trips/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,14 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="5.prisma-to-retrieve-data" />
+                    <option name="lastUsedInstant" value="1682565093" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1682564018" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="4.define-prisma-schema" />
                     <option name="lastUsedInstant" value="1682563846" />
                   </RecentBranch>
@@ -40,14 +51,6 @@
                   <RecentBranch>
                     <option name="branchName" value="2.documention-for-endpoints" />
                     <option name="lastUsedInstant" value="1682486190" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1682486026" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="1.homepage-display-api-documentation" />
-                    <option name="lastUsedInstant" value="1682485616" />
                   </RecentBranch>
                 </list>
               </option>
@@ -75,7 +78,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "4.define-prisma-schema",
+    "git-widget-placeholder": "5.prisma-to-retrieve-data",
     "javascript.nodejs.core.library.configured.version": "19.4.0",
     "javascript.nodejs.core.library.typings.version": "18.16.1",
     "node.js.detected.package.eslint": "true",
@@ -90,6 +93,11 @@
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682484591757</updated>
-      <workItem from="1682484593067" duration="5227000" />
+      <workItem from="1682484593067" duration="6960000" />
     </task>
     <servers />
   </component>
